@@ -1,0 +1,1 @@
+exports = ["J'ai de la chance d'avoir des amis comme vous !", "Vous êtes tous beaux et belles !", "J'ai vraiment des amis extraordinaires !"];

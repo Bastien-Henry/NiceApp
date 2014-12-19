@@ -1,0 +1,24 @@
+".container": {
+	backgroundColor:"#3498db"
+}
+
+"#retryButton": {
+	title:"Encore un !",
+	backgroundColor:"#3498db",
+	color:"#fff",
+	top:1100,
+	borderColor: "#fff",
+	borderWidth: 5,
+	width: 600
+}
+
+"#complimentUser" : {
+	height: 75,
+	color: "#fff",
+	font: {
+		fontSize: 50,
+	},
+	top:400,
+	width:1000,
+	height:500
+}

@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Label id="complimentUser"></Label>
+        <Button id="retryButton"></Button>
+    </Window>
+</Alloy>

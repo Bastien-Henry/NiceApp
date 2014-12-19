@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Label id="shakeLabel"></Label>
+        <Button id="complimentButton"></Button>
+        <Button id="backButton"></Button>
+    </Window>
+</Alloy>

@@ -1,0 +1,67 @@
+".container": {
+	backgroundColor:"#3498db"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: 75,
+	color: "#fff",
+	top:20
+}
+
+"#label": {
+	font: {
+		fontSize: 50,
+	}
+}
+
+"#nameUser": {
+	backgroundColor:"#fff",
+	color:"#3498db",
+	width:700,
+	hintText:"Ton nom",
+	top:300
+}
+
+"#pickerSex": {
+	width:700,
+	borderColor: "#fff",
+	borderWidth: 5
+}
+
+
+"#sexUser": {
+	font: {
+		fontSize: 70,
+	},
+	top:600
+}
+
+"#goButton":{
+	title:"Sois gentil avec moi !",
+	backgroundColor:"#3498db",
+	color:"#fff",
+	top:1100,
+	borderColor: "#fff",
+	borderWidth: 5,
+	width: 700
+}
+
+"#goFacebook":{
+	title:"Sois gentil avec mes amis !",
+	backgroundColor:"#3498db",
+	color:"#fff",
+	top:1300,
+	borderColor: "#fff",
+	borderWidth: 5,
+	width: 700
+}
+
+
+
+
+"#fbButton":{
+	top: 100
+}
+
+

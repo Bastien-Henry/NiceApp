@@ -1,0 +1,33 @@
+".container": {
+	backgroundColor:"#3498db"
+}
+
+"#shakeLabel": {
+	color: "#fff",
+	font: {
+		fontSize: 50,
+	},
+	top:400,
+	height:500,
+	width:900
+}
+
+"#complimentButton": {
+	title:"Shake le téléphone !",
+	backgroundColor:"#3498db",
+	color:"#fff",
+	top:1100,
+	borderColor: "#fff",
+	borderWidth: 5,
+	width: 600
+}
+
+"#backButton": {
+	title:"Revenir à l'accueil",
+	backgroundColor:"#3498db",
+	color:"#fff",
+	top:1300,
+	borderColor: "#fff",
+	borderWidth: 5,
+	width: 600
+}

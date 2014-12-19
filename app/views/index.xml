@@ -1,0 +1,16 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label">NiceApp, make your day better !</Label>
+		<TextField id="nameUser" />
+		<Label id="sexUser">Ton sexe :</Label>
+		<Picker id="pickerSex">
+            <PickerColumn>
+                <PickerRow title="Un homme"/>
+                <PickerRow title="Une femme"/>
+            </PickerColumn>
+        </Picker>
+        <Button id="goButton"></Button>
+        <Button id="goFacebook"></Button>
+        <LoginButton id="fbButton" ns="Alloy.Globals.Facebook"/>
+	</Window>
+</Alloy>
